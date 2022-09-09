@@ -8,7 +8,7 @@ I'm a Cloud/Devops Engineer, Technical writer, and AWS Community Builder who cur
 
 - 😊 Pronouns: He/him
 - 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
-- 🌱 I’m currently learning JavaScript, Reactjs, and Python.
+- 🌱 I’m currently Python, Docker, Kubernetes, Calico and Devops tools.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Cloud Engineer, Devops Engineer.
 - 📫 You can [view my resume](#) and contact me by emailing mailtosulaimanolubiyi1@gmail.com.
